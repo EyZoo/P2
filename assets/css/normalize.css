@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+}
+.hebergements:hover{
+    position: absolute;
+    border-top: 3px blue solid;
+}
+.activites:hover{
+    position: absolute;
+    border-top: 3px blue solid;
+}
